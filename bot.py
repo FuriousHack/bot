@@ -20,4 +20,4 @@ async def ping(ctx):
     await ctx.send(f'Pong! Latence : {latency:.2f}ms')
 
 # Démarrer le bot
-bot.run('MTEyMzI2MDI2NDU1NzU4NDU2NQ.GaOp-y.NpNg6ZeEVTtMhFSgQvpnCtB0zZeQ5GMeXRmvUM')
+bot.run('TOKEN')
